@@ -1,2 +1,2 @@
 # sum22-it161
-web120class work for summer 2022
+it161 class work for summer 2022
